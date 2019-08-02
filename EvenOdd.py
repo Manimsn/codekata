@@ -1,4 +1,4 @@
-y = input("enter the vlue")
+y = 3
 try:
     x = int(y)
     if(x/2==0):
